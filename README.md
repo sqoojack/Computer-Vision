@@ -9,7 +9,7 @@ This repository contains the coursework and final project for the Computer Visio
 
 ### Lab2:
 - Implement Hybrid image.
-- Imahe pyramid.
+- Image pyramid.
 - Colorizing the Russian Empire
 
 ### Lab3:
